@@ -6,3 +6,12 @@ which i wanted into nse or bse offical code but it was very time consuming
 so i decided to make google do it
 
 I have used little of web scrabing and python
+
+
+
+PROCEDURE
+
+First i took all the names to txt file 
+Second the use requests to search to get nse and bse data one at a time
+then used little regex for getting output data
+and then store it in txt file
